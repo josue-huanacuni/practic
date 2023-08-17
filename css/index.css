@@ -1,0 +1,23 @@
+.header{
+    height: 100px;
+    background-color: aqua;
+    margin: 10px;
+}
+.footer{
+    height: 100px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+.publicidad{
+    height: 1000px;
+    background-color: blue;
+}
+.menu{
+    height: 1000px;
+    background-color: brown;
+}
+.hola{
+    height: 950px;
+    background-color: yellowgreen;
+    margin: 5px;
+}
