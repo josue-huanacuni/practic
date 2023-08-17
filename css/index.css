@@ -17,7 +17,23 @@
     background-color: brown;
 }
 .hola{
-    height: 950px;
+    height: 980px;
     background-color: yellowgreen;
     margin: 5px;
+}
+@media(min-width:768px) and (max-width:991px){
+    .publicidad{
+        height: 1000px;
+    }
+    .hola{
+        height: 490px;
+    }
+}
+@media(min-width:320px) and (max-width:767px){
+    .publicidad{
+        height: 100px;
+    }
+    .hola{
+        height: 320px;
+    }
 }
